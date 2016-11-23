@@ -1,4 +1,6 @@
 # pydata-book
+[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/pathcl/pydata-book)
+
 Materials and IPython notebooks for "Python for Data Analysis" by Wes McKinney, published by O'Reilly Media
 
 ## IPython Notebooks:
